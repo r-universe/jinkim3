@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "kim"]
+	path = kim
+	url = https://github.com/jinkim3/kim
+	shallow = true
+	registered = true
 [submodule "exploratory"]
 	path = exploratory
 	url = https://github.com/jinkim3/exploratory
@@ -11,10 +16,5 @@
 [submodule "ezr"]
 	path = ezr
 	url = https://github.com/jinkim3/ezr
-	shallow = true
-	registered = true
-[submodule "kim"]
-	path = kim
-	url = https://github.com/jinkim3/kim
 	shallow = true
 	registered = true

@@ -1,14 +1,14 @@
 [
   {
+    "package": "kim",
+    "oncran": true
+  },
+  {
     "package": "exploratory",
     "oncran": true
   },
   {
     "package": "ezr",
-    "oncran": true
-  },
-  {
-    "package": "kim",
     "oncran": true
   }
 ]
